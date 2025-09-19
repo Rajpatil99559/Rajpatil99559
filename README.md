@@ -1,163 +1,22 @@
-================================================================================
-                        RAJKUMAR PATIL - GITHUB PROFILE
-================================================================================
+<h1 align="center">Hi 👋, I'm Rajkumar Patil</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-Hi 👋, I'm Rajkumar Patil
-A passionate fullstack developer from India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpatil99559&label=Profile%20views&color=0e75b6&style=flat" alt="rajpatil99559" /> </p>
 
-Profile Views: 12,547 and counting...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpatil99559" alt="rajpatil99559" /></a> </p>
 
-================================================================================
-CONTACT INFORMATION
-================================================================================
+- 📫 How to reach me **patilrajb99@gmail.com**
 
-📧 Email: patilrajb99@gmail.com
-💼 LinkedIn: linkedin.com/in/raj patil
-🌍 Location: India
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raj patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj patil" height="30" width="40" /></a>
+</p>
 
-================================================================================
-ACHIEVEMENTS & TROPHIES
-================================================================================
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-🥇 Top Contributor Award
-🏆 GitHub Trophy Winner
-⭐ 500+ Stars Earned
-🔥 100+ Day Streak
-💎 High Quality Code
-🚀 Innovation Excellence
-⚡ Fast Response Time
-🌟 Rising Developer
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpatil99559&show_icons=true&locale=en&layout=compact" alt="rajpatil99559" /></p>
 
-================================================================================
-LANGUAGES & TECHNOLOGIES
-================================================================================
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajpatil99559&show_icons=true&locale=en" alt="rajpatil99559" /></p>
 
-MOBILE DEVELOPMENT
-------------------
-🤖 Android Development - Expert Level
-📱 Mobile App Architecture
-🔧 Arduino Programming
-
-FRONTEND TECHNOLOGIES
---------------------
-🅰️ Angular - Advanced
-⚛️ React - Expert
-🌐 Vue.js - Proficient
-📄 HTML5 - Expert
-🎨 CSS3 - Advanced
-📜 JavaScript - Expert
-
-BACKEND TECHNOLOGIES
--------------------
-☕ Java - Expert
-🐍 Python - Advanced
-🔷 C/C++ - Expert
-🔵 .NET Framework - Proficient
-🟢 Node.js - Advanced
-
-DATABASES
----------
-🗄️ MySQL - Advanced
-🍃 MongoDB - Proficient
-🔶 Oracle Database - Intermediate
-
-CLOUD & TOOLS
---------------
-☁️ AWS (Amazon Web Services) - Intermediate
-🌐 Git Version Control - Expert
-🐧 Linux Systems - Advanced
-
-================================================================================
-GITHUB STATISTICS
-================================================================================
-
-TOP LANGUAGES USED:
--------------------
-JavaScript    ████████████████████ 35%
-Java          ████████████████     28%
-Python        ████████████         20%
-C++           ████████             12%
-Other         ██                    5%
-
-CONTRIBUTION STATS:
-------------------
-📊 Total Commits: 1,247
-🌟 Total Stars: 523
-🍴 Total Forks: 89
-📁 Public Repositories: 42
-👥 Followers: 234
-👤 Following: 156
-
-ACTIVITY OVERVIEW:
------------------
-📈 Contributions last year: 847
-🔥 Current streak: 47 days
-📅 Most active day: Monday
-⏰ Most active time: 2-4 PM
-
-REPOSITORY HIGHLIGHTS:
----------------------
-⭐ awesome-web-app (124 stars)
-⭐ react-dashboard (89 stars)
-⭐ java-microservices (67 stars)
-⭐ python-automation (45 stars)
-⭐ android-notes-app (38 stars)
-
-================================================================================
-SKILLS BREAKDOWN
-================================================================================
-
-EXPERTISE LEVEL:
----------------
-Expert (90-100%):     Java, JavaScript, C/C++, React, HTML5, Git
-Advanced (70-89%):    Python, Angular, Node.js, CSS3, MySQL, Linux
-Proficient (50-69%):  Vue.js, MongoDB, .NET, AWS
-Intermediate (30-49%): Oracle, Arduino
-Learning (<30%):      Machine Learning, DevOps
-
-DEVELOPMENT FOCUS:
------------------
-🎯 Full Stack Web Development
-🎯 Mobile Application Development
-🎯 Database Design & Optimization
-🎯 Cloud Architecture
-🎯 API Development & Integration
-🎯 Code Quality & Best Practices
-
-================================================================================
-CURRENT PROJECTS & ACTIVITIES
-================================================================================
-
-🚀 Working on: Advanced React Dashboard with real-time analytics
-🌱 Learning: Kubernetes and Docker containerization
-💡 Collaborating: Open source Java microservices framework
-🔭 Planning: Machine learning integration for web applications
-📚 Reading: Clean Architecture and System Design patterns
-
-================================================================================
-CODING PHILOSOPHY
-================================================================================
-
-"Clean code is not written by following a set of rules. You don't become
-a software craftsman by learning a list of heuristics. Professionalism
-and craftsmanship come from values that drive disciplines."
-
-💭 Favorite Quote: "Code is like humor. When you have to explain it, it's bad."
-🎯 Goal: Building scalable, maintainable, and user-friendly applications
-🌟 Motto: "Write code that tells a story"
-
-================================================================================
-AVAILABILITY & COLLABORATION
-================================================================================
-
-🟢 Status: Available for exciting projects and collaborations
-📅 Response Time: Usually within 24 hours
-🤝 Open to: Remote work, consulting, and open source contributions
-💼 Looking for: Challenging full-stack development opportunities
-
-Feel free to reach out for collaborations, code reviews, or just to say hi!
-
-================================================================================
-                           Thanks for visiting my profile!
-                        Let's build something amazing together! 🚀
-================================================================================
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajpatil99559&" alt="rajpatil99559" /></p>
