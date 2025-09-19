@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DEVELOPER%20RAJKUMAR&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,8,12&height=200&section=header&text=RAJKUMAR%20PATIL&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 <div align="center">
 👋 Hello, I'm Rajkumar Patil
 Show Image
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100" alt="tech animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100" alt="coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="developer gif"/>
 </div>
 
 🚀 About Me
@@ -24,6 +27,8 @@ javascriptconst rajkumar = {
 🔥 Passionate about crafting exceptional digital experiences through full-stack development
 Show Image
 Show Image
+Show Image
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" alt="productivity gif"/>
 </div>
 
 ⚡ Tech Stack
@@ -56,11 +61,14 @@ Show Image
 
 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajpatil99559&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajpatil99559&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajpatil99559&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajpatil99559&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajpatil99559&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=ffffff"/>
+  <img src="https://streak-stats.demolab.com?user=rajpatil99559&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B&sideLabels=ffffff&dates=ffffff"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1eb-3b4a06e99c38.gif" width="200" alt="stats gif"/>
 </div>
 
 🏆 Achievements
@@ -70,7 +78,10 @@ Show Image
 
 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpatil99559&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpatil99559&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffd700&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284125-5f5e8ca5-2b9a-4f18-8f77-6b5c3267a6e2.gif" width="150" alt="activity gif"/>
 </div>
 
 🎯 Featured Projects
@@ -80,8 +91,11 @@ Show Image
 </div>
 <div align="center">
   <a href="https://github.com/rajpatil99559?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20All%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200" alt="projects gif"/>
 </div>
 
 🌐 Connect With Me
