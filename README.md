@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%20World!&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DEVELOPER%20RAJKUMAR&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 <div align="center">
 👋 Hello, I'm Rajkumar Patil
@@ -18,11 +18,10 @@ javascriptconst rajkumar = {
         "🔓 Contributing to open-source",
         "🧠 Solving complex problems"
     ],
-    currentFocus: "Creating innovative digital solutions",
-    lifePhilosophy: "Code with purpose, build with passion 💫"
+    currentFocus: "Creating innovative digital solutions"
 };
 <div align="center">
-🔥 Passionate about crafting exceptional digital experiences through clean code and innovative solutions
+🔥 Passionate about crafting exceptional digital experiences through full-stack development
 Show Image
 Show Image
 </div>
